@@ -8,3 +8,5 @@ This course covers the command line, Git, build systems, debugging, Docker, netw
 - **Advisor:** Prof. Christopher Kauffman
 - **Schedule:** Fridays 11:00 – 11:50 AM, IRB 2207
 - **Course site:** [mdurrani808.github.io/STIC](https://mdurrani808.github.io/STIC)
+
+This course was taught during Spring 2025, Fall 2025, and Spring 2026.
